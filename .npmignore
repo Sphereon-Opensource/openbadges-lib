@@ -1,0 +1,21 @@
+# DEV
+.idea
+*.iml
+.git
+.npmrc
+npm-debug.log
+jest.config.js
+tsconfig.json
+
+# Mac
+.DS_Store
+
+# Dependencies
+node_modules
+
+# Artifacts
+openbadges-lib*.tgz
+
+# Source
+lib
+
