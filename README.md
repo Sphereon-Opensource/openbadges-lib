@@ -1,1 +1,1 @@
-# openbadges-lib
+# Openbadges JS Library
