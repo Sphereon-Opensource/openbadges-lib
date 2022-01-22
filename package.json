@@ -18,7 +18,7 @@
   ],
   "author": "Sphereon BV",
   "dependencies": {
-    "node-fetch": "2.6.0",
+    "node-fetch": "3.1.1",
     "png-chunks-extract": "1.0.0"
   },
   "devDependencies": {
